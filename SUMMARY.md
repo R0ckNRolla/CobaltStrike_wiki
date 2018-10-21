@@ -1,4 +1,4 @@
 # Summary
 
-* [介绍&&安装](README.md)
+* [简介](README.md)
 
